@@ -1,4 +1,4 @@
-# Windows Calculator Roadmap
+# Calculator Roadmap
 
 Windows Calculator is under active development by Microsoft.
 
